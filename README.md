@@ -21,6 +21,27 @@ Frontend: React · Next.js · Tailwind CSS · CSS Modules
 Backend: Node.js · Express · PostgreSQL · TypeORM · Nest.js
 Tools: Git · GitHub · Axios · Insomnia · Figma · ESLint · Prettier  
 
+🧠 Additional Skills & Experience
+
+🇬🇧 English Proficiency  
+Studied English Language & Literature for over a year at university. I recently completed an intermediate-level English course and have been living in the UK for 6 months, strengthening my communication skills in real contexts. While I don't hold an official certification, I operate comfortably in technical and professional environments, likely at a B1–B2 level.
+
+🧪 Testing & Code Quality  
+Basic hands-on experience with Jest for unit testing in earlier projects. I understand core testing concepts and am gradually incorporating test coverage in my workflows to ensure reliability and prevent regressions.
+
+☁️ Deploy & Hosting  
+Experienced with deploying full stack applications.  
+• Used **Render** for full stack deployment (Nest.js + Next.js).  
+• Previously used **Vercel** to host frontend projects like *Comercio Libre*.  
+• Familiar with environment variables, build processes, and production configs.
+
+🧩 Soft Skills in Tech Contexts  
+My 8+ years in production environments shaped a strong foundation in discipline, ownership, and team collaboration. In tech, I apply these values through:  
+• Writing clean, maintainable code and documenting it for teammates.  
+• Giving and receiving feedback during code reviews and pair programming.  
+• Taking initiative and full ownership of features from planning to release.  
+• Communicating progress and blockers clearly in remote settings.
+
 ✨ What I value  
 🧠 Critical thinking & problem solving  
 💻 Clean code & continuous improvement  
