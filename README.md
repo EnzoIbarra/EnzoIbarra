@@ -89,6 +89,6 @@ Full stack app for tattoo appointment scheduling
 📫 Let’s connect  
 💼 [LinkedIn](https://www.linkedin.com/in/enzoibarra/)  
 📧 enzofarid.ibarra@gmail.com  
-👨‍💻 GitHub: [@enzofibarra](https://github.com/EnzoIbarra)  
+👨‍💻 GitHub: [@EnzoIbarra](https://github.com/EnzoIbarra)  
 
 _"Code is not just building, it's solving, growing, and connecting."_  
