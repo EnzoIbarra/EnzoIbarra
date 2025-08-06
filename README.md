@@ -1,16 +1,48 @@
-## Hi there 👋
+## Enzo Farid Ibarra  
+💻 Full Stack Developer | Frontend Focused  
+👨‍💻 React · Next.js · TypeScript · Tailwind CSS  
+🌱 Currently learning: Cloud integrations · UX/UI  
+🚀 What’s next:
+• Nest.js backend: authentication, validations, email automation  
+• SQL & MongoDB: raw queries + TypeORM entity management  
+• Advanced backend features: job queues, caching, CI/CD, Docker  
+• Scalable architectures: monorepos, microservices, API docs (Swagger)  
+💡 Building tech with purpose and clarity  
 
-<!--
-**EnzoIbarra/EnzoIbarra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I'm Enzo, a full stack web developer based in Córdoba, Argentina 🇦🇷  
+I specialize in frontend development, crafting responsive, clean and functional user interfaces using modern technologies.
 
-Here are some ideas to get you started:
+📚 Before tech, I studied English Language & Literature at university for over a year and have been working since January 2017 in the production sector, gaining over 8 years of experience.
+This journey has equipped me with strong skills in teamwork, problem-solving, and adaptability, all of which now fuel the way I build and collaborate in tech.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 Tech Stack  
+Languages: JavaScript · TypeScript  
+Frontend: React · Next.js · Tailwind CSS · CSS Modules  
+Backend: Node.js · Express · PostgreSQL · TypeORM · Nest.js
+Tools: Git · GitHub · Axios · Insomnia · Figma · ESLint · Prettier  
+
+✨ What I value  
+🧠 Critical thinking & problem solving  
+💻 Clean code & continuous improvement  
+🤝 Communication & team collaboration  
+📦 Real-world experience in productive environments  
+🌱 Curiosity & self-learning  
+
+🚀 Featured Projects  
+
+🌟 **Comercio Libre**  
+An e-commerce frontend built from scratch with Next.js and Tailwind CSS  
+💳 Dynamic forms · product flow · responsive UI · clean UX  
+🔗 [GitHub Repo](https://github.com/EnzoIbarra/comercio-libre)
+
+🌟 **Tatuajes Booking System**  
+Full stack app for tattoo appointment scheduling  
+🗓️ Backend with Express, PostgreSQL & TypeORM · React frontend with modular CSS  
+🔗 [GitHub Repo]([https://github.com/enzofibarra/TatuajesBooking](https://github.com/EnzoIbarra/Tattoo-M3))
+
+📫 Let’s connect  
+💼 [LinkedIn](https://www.linkedin.com/in/enzoibarra/)  
+📧 enzofarid.ibarra@gmail.com  
+👨‍💻 GitHub: [@enzofibarra](https://github.com/EnzoIbarra)  
+
+_"Code is not just building, it's solving, growing, and connecting."_  
