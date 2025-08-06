@@ -28,12 +28,36 @@ Tools: Git · GitHub · Axios · Insomnia · Figma · ESLint · Prettier
 📦 Real-world experience in productive environments  
 🌱 Curiosity & self-learning  
 
+
 🚀 Featured Projects  
+
+🌟 **Héroes Cercanos**
+A solidarity platform developed for volunteer firefighters in Argentina. I handled the entire frontend using Next.js and Tailwind CSS, integrating key features like authentication, media uploads, and email confirmation flows.
+
+🌐 Live Demo:[Héroes Cercanos](https://heroes-cercanos-front.onrender.com/)
+
+🛠 Full Stack: Frontend con Next.js, Backend con Nest.js + TypeORM
+
+👤 User roles: Implementé acceso basado en roles (admin, usuario) y rutas protegidas.
+
+📸 Cloudinary: Integración para carga y almacenamiento de imágenes.
+
+📧 Email Automation: Confirmaciones vía templates Stripo y recordatorios programados.
+
+📱 Diseño: Interface limpia, mobile‑first y responsive con Tailwind CSS.
+
+🎛 Componentes dinámicos: Campañas, datos de estaciones, herramientas de donación y dashboard de usuario.
+
+🔗 Accesibilidad: UX diseñada con enfoque humano‑centrado y accesibilidad priorizada.
+
+🔗 [GitHub Repo](https://github.com/EnzoIbarra/comercio-libre)
+
 
 🌟 **Comercio Libre**  
 An e-commerce frontend built from scratch with Next.js and Tailwind CSS  
 💳 Dynamic forms · product flow · responsive UI · clean UX  
 🔗 [GitHub Repo](https://github.com/EnzoIbarra/comercio-libre)
+
 
 🌟 **Tatuajes Booking System**  
 Full stack app for tattoo appointment scheduling  
