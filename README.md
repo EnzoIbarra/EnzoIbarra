@@ -24,7 +24,7 @@ Tools: Git · GitHub · Axios · Insomnia · Figma · ESLint · Prettier
 🧠 Additional Skills & Experience
 
 🇬🇧 English Proficiency  
-Studied English Language & Literature for over a year at university. I recently completed an intermediate-level English course and have been living in the UK for 6 months, strengthening my communication skills in real contexts. While I don't hold an official certification, I operate comfortably in technical and professional environments, likely at a B1–B2 level.
+Studied English Language & Literature for over a year at university.I recently completed an intermediate-level English course and spent 6 months living in the UK, strengthening my communication skills in real contexts. While I don't hold an official certification, I operate comfortably in technical and professional environments, likely at a B1–B2 level.
 
 🧪 Testing & Code Quality  
 Basic hands-on experience with Jest for unit testing in earlier projects. I understand core testing concepts and am gradually incorporating test coverage in my workflows to ensure reliability and prevent regressions.
