@@ -50,7 +50,8 @@ A solidarity platform developed for volunteer firefighters in Argentina. I handl
 
 🔗 Accesibilidad: UX diseñada con enfoque humano‑centrado y accesibilidad priorizada.
 
-🔗 [GitHub Repo](https://github.com/EnzoIbarra/comercio-libre)
+🔗 [GitHub Repo-Front](https://github.com/HeroesCercanos/Front)
+🔗 [GitHub Repo-Back](https://github.com/HeroesCercanos/Back)
 
 
 🌟 **Comercio Libre**  
