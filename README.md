@@ -61,13 +61,18 @@ A solidarity platform developed for volunteer firefighters in Argentina. I handl
 
 👤 User roles: Implementé acceso basado en roles (admin, usuario) y rutas protegidas.
 
+🔐 Authentication via OAuth 2.0
+
 📸 Cloudinary: Integración para carga y almacenamiento de imágenes.
 
 📧 Email Automation: Confirmaciones vía templates Stripo y recordatorios programados.
 
 📱 Diseño: Interface limpia, mobile‑first y responsive con Tailwind CSS.
 
+📍 Geolocation with Leaflet
+
 🎛 Componentes dinámicos: Campañas, datos de estaciones, herramientas de donación y dashboard de usuario.
+💲 MercadoPago
 
 🔗 Accesibilidad: UX diseñada con enfoque humano‑centrado y accesibilidad priorizada.
 
