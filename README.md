@@ -2,96 +2,141 @@
 💻 Full Stack Developer | Frontend Focused  
 👨‍💻 React · Next.js · TypeScript · Tailwind CSS  
 🌱 Currently learning: Cloud integrations · UX/UI  
-🚀 What’s next:
+🚀 What’s next:  
 • Nest.js backend: authentication, validations, email automation  
 • SQL & MongoDB: raw queries + TypeORM entity management  
 • Advanced backend features: job queues, caching, CI/CD, Docker  
 • Scalable architectures: monorepos, microservices, API docs (Swagger)  
 💡 Building tech with purpose and clarity  
 
-Hi! I'm Enzo, a full stack web developer based in Córdoba, Argentina 🇦🇷  
-I specialize in frontend development, crafting responsive, clean and functional user interfaces using modern technologies.
+---
 
-📚 Before tech, I studied English Language & Literature at university for over a year and have been working since January 2017 in the production sector, gaining over 8 years of experience.
+### 📊 GitHub Stats
+
+![Top Language](https://img.shields.io/github/languages/top/EnzoIbarra/comercio-libre)  
+![Last Commit](https://img.shields.io/github/last-commit/EnzoIbarra/comercio-libre)  
+![Repo Stars](https://img.shields.io/github/stars/EnzoIbarra/comercio-libre?style=social)  
+![Profile Views](https://komarev.com/ghpvc/?username=EnzoIbarra&style=flat-square)  
+
+---
+
+Hi! I'm Enzo, a full stack web developer based in Córdoba, Argentina.  
+I specialize in frontend development, crafting responsive, clean, and functional user interfaces using modern technologies.  
+As part of my web development training, I’ve developed strong competencies in UX/UI, HTML, CSS, JavaScript, Git, Node.js, Express, React, Next.js, SQL, and Tailwind CSS.
+
+📚 Before tech, I studied English Language & Literature at university for over a year and have been working since January 2017 in the production sector, gaining over 8 years of experience.  
 This journey has equipped me with strong skills in teamwork, problem-solving, and adaptability, all of which now fuel the way I build and collaborate in tech.
 
-🛠 Tech Stack  
-Languages: JavaScript · TypeScript  
-Frontend: React · Next.js · Tailwind CSS · CSS Modules  
-Backend: Node.js · Express · PostgreSQL · TypeORM · Nest.js
-Tools: Git · GitHub · Axios · Insomnia · Figma · ESLint · Prettier  
+---
 
-🧠 Additional Skills & Experience
+### 🛠 Tech Stack
 
-🇬🇧 English Proficiency  
-Studied English Language & Literature for over a year at university.I recently completed an intermediate-level English course and spent 6 months living in the UK, strengthening my communication skills in real contexts. While I don't hold an official certification, I operate comfortably in technical and professional environments, likely at a B1–B2 level.
+**Languages:** JavaScript · TypeScript  
+**Frontend:** React · Next.js · Tailwind CSS · CSS Modules  
+**Backend:** Node.js · Express · PostgreSQL · TypeORM · Nest.js  
+**Tools:** Git · GitHub · Axios · Insomnia · Figma · ESLint · Prettier  
 
-🧪 Testing & Code Quality  
-Basic hands-on experience with Jest for unit testing in earlier projects. I understand core testing concepts and am gradually incorporating test coverage in my workflows to ensure reliability and prevent regressions.
+---
 
-☁️ Deploy & Hosting  
-Experienced with deploying full stack applications.  
-• Used **Render** for full stack deployment (Nest.js + Next.js).  
-• Previously used **Vercel** to host frontend projects like *Comercio Libre*.  
-• Familiar with environment variables, build processes, and production configs.
+### 🧠 Additional Skills & Experience
 
-🧩 Soft Skills in Tech Contexts  
-My 8+ years in production environments shaped a strong foundation in discipline, ownership, and team collaboration. In tech, I apply these values through:  
-• Writing clean, maintainable code and documenting it for teammates.  
-• Giving and receiving feedback during code reviews and pair programming.  
-• Taking initiative and full ownership of features from planning to release.  
-• Communicating progress and blockers clearly in remote settings.
+**🇬🇧 English Proficiency**  
+Studied English Language & Literature for over a year at university.  
+I recently completed an intermediate-level English course and spent 6 months living in the UK, strengthening my communication skills in real contexts.  
+While I don't hold an official certification, I operate comfortably in technical and professional environments, likely at a B1–B2 level.
 
-✨ What I value  
+**🧪 Testing & Code Quality**  
+Basic hands-on experience with Jest for unit testing in earlier projects.  
+I understand core testing concepts and am gradually incorporating test coverage in my workflows to ensure reliability and prevent regressions.
+
+**☁️ Deploy & Hosting**  
+Experienced with deploying full stack applications:  
+• Used **Render** for full stack deployment (Nest.js + Next.js)  
+• Used **Vercel** for frontend hosting (*Comercio Libre*)  
+• Familiar with environment variables, build processes, and production configs
+
+**🧩 Soft Skills in Tech Contexts**  
+My 8+ years in production environments shaped a strong foundation in discipline, ownership, and team collaboration.  
+In tech, I apply these values through:  
+• Writing clean, maintainable code and documenting it for teammates  
+• Giving and receiving feedback during code reviews and pair programming  
+• Taking initiative and full ownership of features from planning to release  
+• Communicating progress and blockers clearly in remote settings  
+
+---
+
+### ✨ What I value
+
 🧠 Critical thinking & problem solving  
 💻 Clean code & continuous improvement  
 🤝 Communication & team collaboration  
 📦 Real-world experience in productive environments  
 🌱 Curiosity & self-learning  
 
+---
 
-🚀 Featured Projects  
+## 🚀 Featured Projects  
 
-🌟 **Héroes Cercanos**
-A solidarity platform developed for volunteer firefighters in Argentina. I handled the entire frontend using Next.js and Tailwind CSS, integrating key features like authentication, media uploads, and email confirmation flows.
+---
 
-🌐 Live Demo:[Héroes Cercanos](https://heroes-cercanos-front.onrender.com/)
+### 🌟 Héroes Cercanos
 
-🛠 Full Stack: Frontend con Next.js, Backend con Nest.js + TypeORM
+![Top Language](https://img.shields.io/github/languages/top/HeroesCercanos/Front)
+![Last Commit](https://img.shields.io/github/last-commit/HeroesCercanos/Front)
+![Repo Stars](https://img.shields.io/github/stars/HeroesCercanos/Front?style=social)
 
-👤 User roles: Implementé acceso basado en roles (admin, usuario) y rutas protegidas.
+A solidarity platform developed for volunteer firefighters in Argentina.  
+I handled the entire frontend using Next.js and Tailwind CSS, integrating key features like authentication, media uploads, and email confirmation flows.
 
-🔐 Authentication via OAuth 2.0
+🌐 **Live Demo:** [Héroes Cercanos](https://heroes-cercanos-front.onrender.com/)  
+🛠 **Full Stack:** Frontend with Next.js, Backend with Nest.js + TypeORM  
+👤 **User roles:** Role-based access (admin, user) and protected routes  
+🔐 **Authentication:** OAuth 2.0  
+📸 **Cloudinary:** Media upload integration  
+📧 **Email Automation:** With Stripo templates and scheduled reminders  
+📱 **Design:** Clean, mobile-first and responsive UI with Tailwind CSS  
+📍 **Geolocation:** Leaflet maps integration  
+🎛 **Dynamic components:** Campaigns, donation tools, user dashboards  
+💲 **MercadoPago:** Integrated payment  
+🔗 **Accessibility:** Human-centered UX with accessibility focus  
 
-📸 Cloudinary: Integración para carga y almacenamiento de imágenes.
+🔗 [GitHub Repo - Frontend](https://github.com/HeroesCercanos/Front)  
+🔗 [GitHub Repo - Backend](https://github.com/HeroesCercanos/Back)  
 
-📧 Email Automation: Confirmaciones vía templates Stripo y recordatorios programados.
+---
 
-📱 Diseño: Interface limpia, mobile‑first y responsive con Tailwind CSS.
+### 🌟 Comercio Libre  
 
-📍 Geolocation with Leaflet
+![Top Language](https://img.shields.io/github/languages/top/EnzoIbarra/comercio-libre)
+![Last Commit](https://img.shields.io/github/last-commit/EnzoIbarra/comercio-libre)
+![Repo Stars](https://img.shields.io/github/stars/EnzoIbarra/comercio-libre?style=social)
 
-🎛 Componentes dinámicos: Campañas, datos de estaciones, herramientas de donación y dashboard de usuario.
-💲 MercadoPago
+🛍️ E-commerce frontend built with Next.js and Tailwind CSS  
+📦 Features: dynamic forms, product flow, responsive UI, and clean UX  
 
-🔗 Accesibilidad: UX diseñada con enfoque humano‑centrado y accesibilidad priorizada.
-
-🔗 [GitHub Repo-Front](https://github.com/HeroesCercanos/Front)
-🔗 [GitHub Repo-Back](https://github.com/HeroesCercanos/Back)
-
-
-🌟 **Comercio Libre**  
-An e-commerce frontend built from scratch with Next.js and Tailwind CSS  
-💳 Dynamic forms · product flow · responsive UI · clean UX  
 🔗 [GitHub Repo](https://github.com/EnzoIbarra/comercio-libre)
 
+---
 
-🌟 **Tatuajes Booking System**  
-Full stack app for tattoo appointment scheduling  
-🗓️ Backend with Express, PostgreSQL & TypeORM · React frontend with modular CSS  
-🔗 [GitHub Repo]([https://github.com/enzofibarra/TatuajesBooking](https://github.com/EnzoIbarra/Tattoo-M3))
+### 🌟 Tatuajes Booking System  
 
-📫 Let’s connect  
+![Top Language](https://img.shields.io/github/languages/top/EnzoIbarra/Tattoo-M3)
+![Last Commit](https://img.shields.io/github/last-commit/EnzoIbarra/Tattoo-M3)
+![Repo Stars](https://img.shields.io/github/stars/EnzoIbarra/Tattoo-M3?style=social)
+
+🖋️ Full stack appointment scheduling app for tattoo studios  
+🧠 Tech stack: React, Express, PostgreSQL, TypeORM  
+
+🔗 [GitHub Repo](https://github.com/EnzoIbarra/Tattoo-M3)
+
+---
+
+### 📫 Let’s connect  
+
 💼 [LinkedIn](https://www.linkedin.com/in/enzoibarra/)  
 📧 enzofarid.ibarra@gmail.com  
 👨‍💻 GitHub: [@EnzoIbarra](https://github.com/EnzoIbarra)  
+
+📄 CVs:  
+🇬🇧 [View CV (English)](https://drive.google.com/file/d/1tedJUrd3K4Je33zvaxtNJQxhTOmwqape/view?usp=sharing)  
+🇪🇸 [Ver CV (Español)](https://drive.google.com/file/d/1MPGL2Kj40eaP6E7TOxLD2VwQQqfI3a24/view?usp=sharing)
