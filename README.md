@@ -4,7 +4,7 @@
 🌱 Currently learning: Cloud integrations · UX/UI  
 🚀 What’s next:  
 • Nest.js backend: authentication, validations, email automation  
-• SQL & MongoDB: raw queries + TypeORM entity management  
+• SQL & MongoDB
 • Advanced backend features: job queues, caching, CI/CD, Docker  
 • Scalable architectures: monorepos, microservices, API docs (Swagger)  
 💡 Building tech with purpose and clarity  
