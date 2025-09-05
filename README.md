@@ -61,7 +61,7 @@ In tech, I apply these values through:
 • Writing clean, maintainable code and documenting it for teammates  
 • Giving and receiving feedback during code reviews and pair programming  
 • Taking initiative and full ownership of features from planning to release  
-• Communicating progress and blockers clearly in remote settings  
+• Communicating progress and blockers clearly in remote settings
 
 ---
 
