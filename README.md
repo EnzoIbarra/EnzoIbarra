@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/EnzoIbarra/my-portfolio/issues/1" alt="Animated banner — Enzo Ibarra — Frontend" width="100%" />
+</p>
+---
 ## Enzo Farid Ibarra  
 💻 Full Stack Developer | Frontend Focused  
 👨‍💻 React · Next.js · TypeScript · Tailwind CSS  
