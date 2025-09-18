@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/EnzoIbarra/my-portfolio/issues/1#issue-3430500602" alt="Animated banner — Enzo Ibarra — Frontend" width="100%" />
+  <img src="https://private-user-images.githubusercontent.com/217378418/491112476-fa2bfe23-433e-4043-a6a6-e4274d9c44c6.mp4?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTgyMDQyMTcsIm5iZiI6MTc1ODIwMzkxNywicGF0aCI6Ii8yMTczNzg0MTgvNDkxMTEyNDc2LWZhMmJmZTIzLTQzM2UtNDA0My1hNmE2LWU0Mjc0ZDljNDRjNi5tcDQ_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwOTE4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDkxOFQxMzU4MzdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02YTlkZWUyNTMzYWQ2Y2FlNjJiM2E5OThlMTQwOGI5ZjFlOTNhZDBlYzM5MWIyODI2Y2VjMjcxYzA1ZTk2NmVhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.0tjsiWKjItsg40DugRCEgvdEm1G7pKU3cfQwMLLQRmQ" alt="Animated banner — Enzo Ibarra — Frontend" width="100%" />
 </p>
 ---
 ## Enzo Farid Ibarra  
