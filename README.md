@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/EnzoIbarra/my-portfolio/issues/1" alt="Animated banner — Enzo Ibarra — Frontend" width="100%" />
+  <img src="https://github.com/EnzoIbarra/my-portfolio/issues/1#issue-3430500602" alt="Animated banner — Enzo Ibarra — Frontend" width="100%" />
 </p>
 ---
 ## Enzo Farid Ibarra  
