@@ -1,7 +1,9 @@
 <p align="center">
   <img src="https://private-user-images.githubusercontent.com/217378418/491119131-ed45bfbb-1014-4700-8935-3dace2d60873.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTgyMDQ3OTMsIm5iZiI6MTc1ODIwNDQ5MywicGF0aCI6Ii8yMTczNzg0MTgvNDkxMTE5MTMxLWVkNDViZmJiLTEwMTQtNDcwMC04OTM1LTNkYWNlMmQ2MDg3My5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwOTE4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDkxOFQxNDA4MTNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iYzdhODkzZjg1Y2E0MDFhMjM4Nzc4NTM3Zjc4YTQ2ZGQxZGU5ZmEyZDRhOTliZGQ1ZTdlYTIxYmE1Y2M1ZjM5JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.nLCS0uyulTyfPAUU3WNCtH3vqE1CWZ7pwnzb7lhsmBM" alt="Animated banner — Enzo Ibarra — Frontend" width="35%" />
 </p>
+
 ---
+
 ## Enzo Farid Ibarra  
 💻 Full Stack Developer | Frontend Focused  
 👨‍💻 React · Next.js · TypeScript · Tailwind CSS  
