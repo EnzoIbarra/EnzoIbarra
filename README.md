@@ -49,6 +49,10 @@
 ![Repo Stars](https://img.shields.io/github/stars/EnzoIbarra/comercio-libre?style=social)  
 ![Profile Views](https://komarev.com/ghpvc/?username=EnzoIbarra&style=flat-square)  
 
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=EnzoIbarra&show_icons=true&theme=tokyonight)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoIbarra&layout=compact&theme=tokyonight)
+
+
 ---
 
 Hi! I'm Enzo, a full stack web developer based in Córdoba, Argentina.  
