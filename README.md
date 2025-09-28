@@ -17,7 +17,7 @@
 
 ---
 
-## 🚀 Tecnologías y herramientas
+### 🛠 Tech Stack
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -57,15 +57,6 @@ As part of my web development training, I’ve developed strong competencies in 
 
 📚 Before tech, I studied English Language & Literature at university for over a year and have been working since January 2017 in the production sector, gaining over 8 years of experience.  
 This journey has equipped me with strong skills in teamwork, problem-solving, and adaptability, all of which now fuel the way I build and collaborate in tech.
-
----
-
-### 🛠 Tech Stack
-
-**Languages:** JavaScript · TypeScript  
-**Frontend:** React · Next.js · Tailwind CSS · CSS Modules  
-**Backend:** Node.js · Express · PostgreSQL · TypeORM · Nest.js  
-**Tools:** Git · GitHub · Axios · Insomnia · Figma · ESLint · Prettier  
 
 ---
 
