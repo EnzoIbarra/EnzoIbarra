@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://private-user-images.githubusercontent.com/217378418/491988089-4c0da9d5-92a5-4124-9266-d32c0bf85fc4.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTg0MjA0OTEsIm5iZiI6MTc1ODQyMDE5MSwicGF0aCI6Ii8yMTczNzg0MTgvNDkxOTg4MDg5LTRjMGRhOWQ1LTkyYTUtNDEyNC05MjY2LWQzMmMwYmY4NWZjNC5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwOTIxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDkyMVQwMjAzMTFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT00OGI0OWEzNWY3YzY0ZmRiMWIyNzg3OWQxYjc0NzZhNWM2OTVjYWU5NGY3ZmZiZTFhODYwM2ViZDY3MThmY2RmJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.Sh-5smUMP96khoaFHW4CLWdI_bnyHyhiX1ADD1INjtE" alt="Animated banner — Enzo Ibarra — Frontend" width="35%" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyZzNsemVmaWk0ZnI0d3VmbmsxZjhrbGR4bnl6MnFwNWZmYzg4NTE4OSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/source.gif" alt="Animated banner — Enzo Ibarra — Frontend" width="35%" />
 </p>
 
 ---
