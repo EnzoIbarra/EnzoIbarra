@@ -152,8 +152,8 @@ I handled the entire frontend using Next.js and Tailwind CSS, integrating key fe
 ![Last Commit](https://img.shields.io/github/last-commit/EnzoIbarra/Tattoo-M3)
 ![Repo Stars](https://img.shields.io/github/stars/EnzoIbarra/Tattoo-M3?style=social)
 
-🖋️ Full stack appointment scheduling app for tattoo studios  
-🧠 Tech stack: React, Express, PostgreSQL, TypeORM  
+🖋️ Full stack appointment scheduling app for tattoo studios. 
+🧠 Tech stack: React, Express, PostgreSQL, TypeORM. 
 
 🔗 [GitHub Repo](https://github.com/EnzoIbarra/Tattoo-M3)
 
