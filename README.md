@@ -70,8 +70,6 @@ This journey has equipped me with strong skills in teamwork, problem-solving, an
 
 **🇬🇧 English Proficiency**  
 Studied English Language & Literature for over a year at university.  
-I recently completed an intermediate-level English course and spent 6 months living in the UK, strengthening my communication skills in real contexts.  
-While I don't hold an official certification, I operate comfortably in technical and professional environments, likely at a B1–B2 level.
 
 **🧪 Testing & Code Quality**  
 Basic hands-on experience with Jest for unit testing in earlier projects.  
