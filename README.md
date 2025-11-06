@@ -163,5 +163,5 @@ I handled the entire frontend using Next.js and Tailwind CSS, integrating key fe
 👨‍💻 GitHub: [EnzoIbarra](https://github.com/EnzoIbarra)  
 
 📄 CVs:  
-🇬🇧 [View CV (English)](https://drive.google.com/file/d/1RI4-20kFJ52MZkldB9Wu5PSZ_Ukqhric/view?usp=sharing)  
-🇪🇸 [Ver CV (Español)](https://drive.google.com/file/d/1aENt2bBMVJ3TrmYu2XAcgC2BoyWCdXM1/view?usp=drive_link)
+🇬🇧 [View CV (English)](https://docs.google.com/document/d/1EFK622VVr5s2Snd7k2InQV4_a7yiJcc-RnlA2i1S5vY/edit?usp=sharing)  
+🇪🇸 [Ver CV (Español)](https://docs.google.com/document/d/1pJdNjJGpcLYbZMdmtdkiV7X9YmY-JvP-onGqgqB0GaM/edit?usp=sharing)
