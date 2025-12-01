@@ -103,6 +103,91 @@ In tech, I apply these values through:
 ## 🚀 Featured Projects  
 
 ---
+### 🌟 Plataforma Educativa — desarrollemos México
+
+A full educational platform built with a modular, scalable architecture focused on course management, user lifecycle automation, and real-time search.
+
+🛠 Tech Stack
+Next.js 13 • Supabase • PostgreSQL • React.js • TypeScript • styled-components
+
+🔧 Key Features
+• Centralized user management replacing 3 separate panels
+• Real-time search with advanced filters and intelligent pagination
+• Full integration of Supabase Auth + Profiles
+• Component library with styled-components + role badges
+• Custom hooks for optimized state management (useUsers)
+• Complete course system (modules, exams, validations)
+• Unified instructor assignment + create/edit workflow
+
+---
+
+### 🌟 Certification System — IRAM Style Platform
+
+Certification management platform with auto-save logic, PDF tooling, admin dashboards, and Cloudinary integration.
+
+🛠 Tech Stack
+Next.js 13 • Prisma ORM • PostgreSQL • Material-UI • NextAuth.js • Cloudinary • Konva.js
+
+🔧 Key Features
+• Auto-save + recovery to prevent data loss
+• Dynamic admin panel with tabs (Users / Admins)
+• Mass export to PDF using jsPDF
+• Refactored email logic (approvals vs updates)
+• Simplified certification forms + DB schema updates
+• Multi-criteria filters: text, age range, organization type
+• Real-time certificate preview (iframe)
+• Cloudinary via FormData replacing JSON uploads
+
+---
+
+### 🌟 Corporativo Ehecatl — Corporate Website
+
+Corporate website built with modular architecture, service segmentation, and UI upgrades.
+
+🛠 Tech Stack
+Next.js • React • TypeScript • Tailwind CSS • MUI • Supabase
+
+🔧 Key Features
+• Complete site: Home, Products, Residential Services, Contact
+• Auto-carousel landing, active navigation, WhatsApp floating button
+• Hero modernization: flip cards, animations, visual redesign
+• Global improvements across Contact, Hero and Marketing pages
+• New WORKER role + extended permission logic
+• Dedicated pages for Plumbing, Gardening and Electrician
+
+---
+
+### 🌟 Real Estate Platform — Inmobiliaria
+
+Real-estate platform with advanced property search, full CRUD, roles, email flows and AI-enhanced features.
+
+🛠 Tech Stack
+Next.js • React • TypeScript • Tailwind CSS • Supabase
+
+##### 🔧 Key Features
+• Hero search, navigation, services, About Us
+• Property filters: price, rooms, bathrooms, amenities, geo-rules
+• Robust property creation with media upload + validations
+• Authentication with roles + email confirmation
+• Modular dashboards (Admin / User)
+• Property edit + email automation
+• Payment flow fixes (pay variable)
+• AI-augmented property search
+
+---
+
+### 🌟 Sindicato — Internal Platform
+
+Internal communication and interaction system focused on structured API flows and clean UI.
+
+🛠 Tech Stack
+Next.js • React • TypeScript • Tailwind CSS • Nodemailer
+
+#### 🔧 Key Features
+• Full contact form with validation and Gmail SMTP
+• API endpoint with safe error handling + auto-response
+• Page layout and styles built entirely from scratch
+---
 
 ### 🌟 Héroes Cercanos
 
