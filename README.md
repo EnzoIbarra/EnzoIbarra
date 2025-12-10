@@ -48,7 +48,8 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=EnzoIbarra&style=flat-square)  
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=EnzoIbarra&show_icons=true&theme=tokyonight)
+![Estadísticas de GitHub](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=enzoibarra
+)
 
 ![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=HeroesCercanos&repo=Front&layout=compact&theme=tokyonight)  
 
