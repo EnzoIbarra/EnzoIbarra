@@ -1,7 +1,9 @@
  
 
 <p align="center">
+   <a href="https://https://enzoibarra.vercel.app/" target="_blank">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyZzNsemVmaWk0ZnI0d3VmbmsxZjhrbGR4bnl6MnFwNWZmYzg4NTE4OSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/source.gif" alt="Animated banner — Enzo Ibarra — Frontend" width="35%" />
+    </a>
 </p>
 
 ---
