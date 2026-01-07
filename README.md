@@ -186,7 +186,7 @@ Internal communication and interaction system focused on structured API flows an
 🛠 Tech Stack
 Next.js • React • TypeScript • Tailwind CSS • Nodemailer
 
-#### 🔧 Key Features
+##### 🔧 Key Features
 • Full contact form with validation and Gmail SMTP
 • API endpoint with safe error handling + auto-response
 • Page layout and styles built entirely from scratch
