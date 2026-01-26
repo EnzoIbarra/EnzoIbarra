@@ -249,6 +249,7 @@ I handled the entire frontend using Next.js and Tailwind CSS, integrating key fe
 💼 [LinkedIn](https://www.linkedin.com/in/enzoibarra/)  
 📧 enzofarid.ibarra@gmail.com  
 👨‍💻 GitHub: [EnzoIbarra](https://github.com/EnzoIbarra)  
+🌐 Portfolio: [EnzoIbarra](https://enzoibarra.vercel.app/)
 
 📄 CVs:  
 🇬🇧 [View CV (English)](https://docs.google.com/document/d/1EFK622VVr5s2Snd7k2InQV4_a7yiJcc-RnlA2i1S5vY/edit?usp=sharing)  
