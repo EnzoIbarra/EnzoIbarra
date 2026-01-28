@@ -11,13 +11,7 @@
  
 💻 Full Stack Developer | Frontend Focused  
 👨‍💻 React · Next.js · TypeScript · Tailwind CSS  
-🌱 Currently learning: Cloud integrations · UX/UI  
-🚀 What’s next:  
-• Nest.js backend: authentication, validations, email automation  
-• SQL & MongoDB
-• Advanced backend features: job queues, caching, CI/CD, Docker  
-• Scalable architectures: monorepos, microservices, API docs (Swagger)  
-💡 Building tech with purpose and clarity  
+🌐 My web site: [EnzoIbarra](https://enzoibarra.vercel.app/)
 
 ---
 
