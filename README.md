@@ -15,8 +15,15 @@
 
 ### 💼 Professional Experience
 
+### **Full-Stack Developer – SyroxTech (Spain)**
+*Feb 2026 – Present*
+- Developing Nordvital, a professional platform for medical reminder automation via WhatsApp.
+- Building a real-time metrics dashboard with advanced multi-criteria filtering and reusable UI.
+- Engineering intelligent Excel data processing with custom deduplication logic and validation.
+- Orchestrating automated workflows using n8n and Twilio WhatsApp Business API.
+
 #### **Full-Stack Developer – ICC Group (Spain)**
-*Jan 2026 – Present*
+*Jan 2026 – Marc 2026*
 - Designing containerized microservices architecture with **Docker and Redis** for mass scraping.
 - Orchestrating complex ETL workflows using **n8n** for data extraction and validation.
 - Integrating **AI (LLMs)** for semantic analysis and automated web recovery modes.
