@@ -48,7 +48,9 @@
 ---
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/enzoibarra/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:enzofarid.ibarra@gmail.com) 
-[Portfolio](https://enzoibarra.vercel.app/)
+<a href="https://enzoibarra.vercel.app">
+  <img src="https://enzoibarra.vercel.app/EnzoIcon.png" alt="Portfolio" height="28">
+</a>
 
 <!--
 # 📊 GitHub Stats:
