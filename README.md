@@ -9,7 +9,9 @@
 
 💻 **Full Stack Developer** | Specialized in Frontend & Scalable Solutions
 
-🌐 My web site: [EnzoIbarra](https://enzoibarra.vercel.app/)
+🌐 My web site: [Enzo Ibarra](https://enzoibarra.vercel.app/) <a href="https://enzoibarra.vercel.app">
+  <img src="https://enzoibarra.vercel.app/EnzoIcon.png" alt="Portfolio" height="34">
+</a>
 
 ---
 
@@ -49,8 +51,11 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/enzoibarra/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:enzofarid.ibarra@gmail.com) 
 <a href="https://enzoibarra.vercel.app">
-  <img src="https://enzoibarra.vercel.app/EnzoIcon.png" alt="Portfolio" height="28">
+  <img src="https://enzoibarra.vercel.app/EnzoIcon.png" alt="Portfolio" height="29">
 </a>
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EnzoIbarra&theme=dark&hide_border=false" alt="Enzo Streak" />
+</p>
 
 <!--
 # 📊 GitHub Stats:
@@ -63,5 +68,10 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=EnzoIbarra&icon=0&color=0)](https://visitcount.itsvg.in)
+ # 📊 GitHub Stats:
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=EnzoIbarra&theme=dark&show_icons=true&hide_border=false&count_private=true" alt="Enzo Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoIbarra&theme=dark&hide_border=false&layout=compact" alt="Enzo Languages" height="150" />
+</p>
+ -->
 
- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
