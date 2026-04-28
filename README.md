@@ -7,7 +7,7 @@
 ---
 # Hi! I'm Enzo Ibarra 
 
-💻 **Full Stack Developer** | Specialized in Frontend & Scalable Solutions
+💻 **Full Stack Developer** | Specialized in Frontend
 
 🌐 My web site: [Enzo Ibarra](https://enzoibarra.vercel.app/) <a href="https://enzoibarra.vercel.app">
   <img src="https://enzoibarra.vercel.app/EnzoIcon.png" alt="Portfolio" height="34">
@@ -54,7 +54,7 @@
   <img src="https://enzoibarra.vercel.app/EnzoIcon.png" alt="Portfolio" height="29">
 </a>
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EnzoIbarra&theme=dark&hide_border=false" alt="Enzo Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EnzoIbarra&theme=dark&hide_border=false" alt="Enzo Ibarra Streak" />
 </p>
 
 <!--
