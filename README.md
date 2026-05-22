@@ -5,7 +5,7 @@
 </p>
 
 ---
-# Hi! I'm Enzo Ibarra !
+# Hi! I'm Enzo Ibarra
 
 💻 **Full Stack Developer** | Specialized in Frontend
 
