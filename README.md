@@ -17,7 +17,6 @@
 
 ### 💼 Professional Experience
 
-
 ### **Full-Stack Developer – SyroxTech (Argentina)**
 *Feb 2026 – May 2026*
 - Developing Nordvital, a professional platform for medical reminder automation via WhatsApp.
