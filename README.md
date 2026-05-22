@@ -5,7 +5,7 @@
 </p>
 
 ---
-# Hi! I'm Enzo Ibarra
+# Hi! I'm Enzo Ibarra!
 
 💻 **Full Stack Developer** | Specialized in Frontend
 
@@ -16,6 +16,7 @@
 ---
 
 ### 💼 Professional Experience
+
 
 ### **Full-Stack Developer – SyroxTech (Argentina)**
 *Feb 2026 – May 2026*
