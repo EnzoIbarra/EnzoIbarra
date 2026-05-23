@@ -7,7 +7,7 @@
 ---
 # Hi! I'm Enzo Ibarra!
 
-💻 **Full Stack Developer** | Specialized in Frontend
+💻 **Full Stack Developer**
 
 🌐 My web site: [Enzo Ibarra](https://enzoibarra.vercel.app/) <a href="https://enzoibarra.vercel.app">
   <img src="https://enzoibarra.vercel.app/EnzoIcon.png" alt="Portfolio" height="34">
