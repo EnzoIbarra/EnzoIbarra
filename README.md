@@ -31,7 +31,7 @@
 - Integrating **AI (LLMs)** for semantic analysis and automated web recovery modes.
 - Developing Python scripts with anti-blocking logic (Tor) and dynamic filtering.
 
-#### **Full-Stack Developer – Adbize Projects (Argentina)**
+#### **Full-Stack Developer – Adbize (Argentina)**
 *Oct 2025 – Dec 2025*
 - Developed **Educational Platforms**, **Certification Systems**, and **Real Estate Platforms** using Next.js.
 - Built reusable UI component libraries with **Styled Components**, **Tailwind CSS**, and **Material-UI**.
